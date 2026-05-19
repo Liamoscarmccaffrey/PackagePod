@@ -1,4 +1,4 @@
-import { BrowserPod } from 'https://rt.browserpod.io/0.9.2/browserpod.js'
+import { BrowserPod } from '@leaningtech/browserpod'
 import { log, clearConsole, setServerStatus, setServerInfo, initThemeToggle } from './ui.js'
 
 let pod = null
